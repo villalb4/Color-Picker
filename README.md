@@ -1,2 +1,2 @@
 # Color-Picker
-My firts Javascirpt project
+My firts Javascirpt project.
